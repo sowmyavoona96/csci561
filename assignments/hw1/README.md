@@ -4,4 +4,4 @@ The goal of this project is to build a search agent which finds the optimal path
 2. Uniform Cost Search (UCS)
 3. A*
 
-Please refer to the homework.pdf for a detailed description on the problem statement.
+Please refer to the hw1-csci561-s21.pdf file for a detailed description on the problem statement.
